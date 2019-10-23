@@ -1,7 +1,7 @@
 #For linux/mac using crontab to run process automatically/in background
 #command- sudo crontab -e 
-#@reboot python3 /home/chitreshg/Desktop/Practice/Learn/python/websiteBlocker/daily_blocker.py 
-#then [alt x -> y -> enter]
+#@reboot python3 /home/chitreshg/Desktop/websiteBlocker/daily_blocker.py 
+#then [alt x + y + enter]
 #(Thats my path of the file, you can add yours;)
 import time
 from datetime import datetime as dt
