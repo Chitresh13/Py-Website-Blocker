@@ -13,7 +13,7 @@ website_list= ["www.facebook.com","facebook.com","instagram.com","www.instagram.
 #some website which cause distraction.
 while True: 
 	if dt(dt.now().year,dt.now().month,dt.now().day,8) < dt.now() < dt(dt.now().year,dt.now().month,dt.now().day,16):
-		#time set between  8:00 am to 4:00
+		#time set between  8:00 am to 4:00 pm
 		print('Working hours...')
 		with open(hosts_temp,'r+') as file:
 			content = file.read()
