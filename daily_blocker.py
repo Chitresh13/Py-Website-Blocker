@@ -6,7 +6,8 @@
 import time
 from datetime import datetime as dt
 #hosts_temp="hosts" #r+ be able to read and write
-hosts_temp="/etc/hosts" #for linux
+hosts_temp="/etc/hosts" #for linux 
+#this is the host file
 #hosts_temp= r"c:\Windows\System32\drivers\etc\hosts" #for windows
 redirect= "127.0.0.1"
 website_list= ["www.facebook.com","facebook.com","instagram.com","www.instagram.com"]
