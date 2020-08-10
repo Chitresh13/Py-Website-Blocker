@@ -2,7 +2,7 @@
 A simple program which does not allow us to use websites that causes distraction such as: 
 [Facebook](www.facebook.com),[Instagram](www.instagram.com).
 
-You can add more websites as per your wish
+You can add more websites as per your wish.
 
 The timer is set between 8:00 am to 4:00 pm
 
