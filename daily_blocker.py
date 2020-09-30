@@ -36,5 +36,6 @@ while True:
 
 		print('Fun hours...')
 	time.sleep(5)
+#To run in background..
 #use sudo python3 daily_blocker.py for ubuntu
 #for windows use command prompt in administrative mode. 
