@@ -1,3 +1,4 @@
+#watin for my damn tsahirt here
 #For linux/mac using crontab to run process automatically/in background
 #command- sudo crontab -e 
 #@reboot python3 /home/chitreshg/Desktop/websiteBlocker/daily_blocker.py 
